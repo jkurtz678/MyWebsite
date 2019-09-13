@@ -2059,10 +2059,20 @@ input, select, textarea {
 				font-size: 1.1em;
 				line-height: 1.2em;
 				color: white;
+				background-color: lightgray;
+				font-weight: 900;
+				border-radius: 0.35em;
+			}
+
+			.item header .link {
+				padding: 0.4em 0.4em 0.4em 0.4em;
+				font-size: 1.1em;
+				line-height: 1.2em;
+				color: white;
 				font-weight: 900;
 				background-color: #8ebebc;
 				border-radius: 0.35em;
-			}
+			 }
 	
 	.myItem {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
